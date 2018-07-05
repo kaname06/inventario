@@ -1,0 +1,137 @@
+/*=========================== COMFORTAA ====================*/
+@font-face 
+{
+	font-family: 'Comfortaa';
+	font-style: normal;
+	font-weight: lighter;
+	src: local('Comfortaa'), url('../font/Comfortaa/Comfortaa-Regular.ttf');
+	src: url('../font/Comfortaa/Comfortaa-Regular.ttf') format('truetype');
+}
+
+@font-face 
+{
+	font-family: 'Comfortaa';
+	font-style: normal;
+	font-weight: lighter;
+	src: local('Comfortaa'), url('../font/Comfortaa/Comfortaa-Light.ttf');
+	src: url('../font/Comfortaa/Comfortaa-Light.ttf') format('truetype');
+}
+/*=========================== QUICKSAND ====================*/
+@font-face 
+{
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: lighter;
+	src: local('Quicksand'), url('../font/Quicksand/Quicksand-Regular.ttf');
+	src: url('../font/Quicksand/Quicksand-Regular.ttf') format('truetype');
+}
+
+@font-face 
+{
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: lighter;
+	src: local('Quicksand'), url('../font/Quicksand/Quicksand-Medium.ttf');
+	src: url('../font/Quicksand/Quicksand-Medium.ttf') format('truetype');
+}
+
+@font-face 
+{
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: lighter;
+	src: local('Quicksand'), url('../font/Quicksand/Quicksand-Light.ttf');
+	src: url('../font/Quicksand/Quicksand-Light.ttf') format('truetype');
+}
+/*=========================== DOSIS ====================*/
+@font-face 
+{
+	font-family: 'Dosis';
+	font-style: normal;
+	font-weight: lighter;
+	src: local('Dosis'), url('../font/Dosis/Dosis-Regular.ttf');
+	src: url('../font/Dosis/Dosis-Regular.ttf') format('truetype');
+}
+
+@font-face 
+{
+	font-family: 'Dosis';
+	font-style: normal;
+	font-weight: lighter;
+	src: local('Dosis'), url('../font/Dosis/Dosis-Light.ttf');
+	src: url('../font/Dosis/Dosis-Light.ttf') format('truetype');
+}
+
+@font-face 
+{
+	font-family: 'Dosis';
+	font-style: normal;
+	font-weight: lighter;
+	src: local('Dosis'), url('../font/Dosis/Dosis-Medium.ttf');
+	src: url('../font/Dosis/Dosis-Medium.ttf') format('truetype');
+}
+/*=========================== RELAWAY ====================*/
+@font-face 
+{
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: lighter;
+	src: local('Raleway'), url('../font/Raleway/Raleway-Regular.ttf');
+	src: url('../font/Raleway/Raleway-Regular.ttf') format('truetype');
+}
+
+@font-face 
+{
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: lighter;
+	src: local('Raleway'), url('../font/Raleway/Raleway-Light.ttf');
+	src: url('../font/Raleway/Raleway-Light.ttf') format('truetype');
+}
+
+@font-face 
+{
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: lighter;
+	src: local('Raleway'), url('../font/Raleway/Raleway-Medium.ttf');
+	src: url('../font/Raleway/Raleway-Medium.ttf') format('truetype');
+}
+
+@font-face 
+{
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: lighter;
+	src: local('Raleway'), url('../font/Raleway/Raleway-SemiBold.ttf');
+	src: url('../font/Raleway/Raleway-SemiBold.ttf') format('truetype');
+}
+
+@font-face 
+{
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: lighter;
+	src: local('Raleway'), url('../font/Raleway/Raleway-Thin.ttf');
+	src: url('../font/Raleway/Raleway-Thin.ttf') format('truetype');
+}
+
+.comfortaa
+{
+	font-family: 'Comfortaa', cursive !important;
+}
+
+.quick
+{
+	font-family: 'Quicksand', sans-serif !important;
+}
+
+.dosis
+{
+	font-family: 'Dosis', sans-serif !important;
+}
+
+.relaway
+{
+	font-family: 'Raleway', sans-serif !important;
+}
